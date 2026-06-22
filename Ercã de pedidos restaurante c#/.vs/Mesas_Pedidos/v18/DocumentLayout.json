@@ -1,14 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Mesas_Pedidos\\",
+  "WorkspaceRootPath": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\mesas_pedidos\\mesas_pedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\mesas_pedidos\\erc\u00E3 de pedidos restaurante c#\\oraclechangenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|solutionrelative:oraclechangenotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\mesas_pedidos\\erc\u00E3 de pedidos restaurante c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\mesas_pedidos\\mesas_pedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Mesas_Pedidos||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|c:\\users\\cassiano videira\\desktop\\projetos\\mesas_pedidos\\erc\u00E3 de pedidos restaurante c#\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{78D035FA-02C5-4882-9192-8F1D578F3E2C}|Mesas_Pedidos.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +29,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Mesas_Pedidos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Mesas_Pedidos\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAywGsAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T16:16:53.113Z",
+              "WhenOpened": "2026-06-22T17:28:08.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mesas_Pedidos",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Mesas_Pedidos.csproj",
+              "RelativeDocumentMoniker": "Mesas_Pedidos.csproj",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Mesas_Pedidos.csproj",
+              "RelativeToolTip": "Mesas_Pedidos.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-22T16:33:28.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OracleChangeNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\OracleChangeNotifier.cs",
+              "RelativeDocumentMoniker": "OracleChangeNotifier.cs",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\OracleChangeNotifier.cs",
+              "RelativeToolTip": "OracleChangeNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T16:07:37.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Mesas_Pedidos\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Mesas_Pedidos\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Cassiano Videira\\Desktop\\Projetos\\Mesas_Pedidos\\Erc\u00E3 de pedidos restaurante c#\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-21T16:16:50.64Z",
+              "WhenOpened": "2026-06-21T17:00:24.458Z",
               "EditorCaption": " [Design]"
             }
           ]
