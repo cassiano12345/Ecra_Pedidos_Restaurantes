@@ -190,8 +190,8 @@ namespace Mesas_Pedidos
 
 
         //Mysql
-        /*
         
+        /*
         private MySqlConnection _connection;
         private string _connectionString;
 
