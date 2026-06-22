@@ -4,9 +4,14 @@ O presente projeto apresenta uma solução para restaurantes e bares, em forma d
 ### Algumas funcionalidades a destacar
 Ficheiro-> ... <br/>
 
-***Funções***
+***Funções*** <br/> 
+
+***Ficheiro->Ercã de pedidos restaurante c# ->Form1.cs***
 - AjustarBotoes: A função serve para reorganizar os botões quando o formulário é redimensionado, ou seja quando a dimeção do programa muda, os botões são redimensionados para se ajustarem a nova dimensão do ecrã.
 - CriarBotoes: quando o programa começa é logo feita uma consulta de pedidos de clientes presentes na base de dados, e a função CriarBotoes tem como objetivo apresentar esses pedidos como forma de botões, e quando se clica nos botões aparece o formulario M_Box, onde é possivel definir o pedido como enviado bem como eliminar o pedido.
+
+***Ficheiro->Ercã de pedidos restaurante c# -> OracleChangeNotifier.cs***<br/>
+
 - StartListening: A função destina a apresentar os pedidos dos clientes na base de dados.
 - selecionar_sala: Na tabela que recebe os pedidos dos clientes, o valor da sala aparece em numerario, e é necessario fazer uma pesquisa pela designão da sala por extenso a outra tabela, ou seja esse é o objetivo da função selecionar_sala.
 - Pedido_Executado: O objetivo da função é fazer um Update ao pedido do cliente na base de dados definindo com enviado, e posteriormente aparece no ecrã em verde.
