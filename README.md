@@ -2,7 +2,6 @@
 O presente projeto apresenta uma solução para restaurantes e bares, em forma de ecrã apresenta para os cozinheiros e garçons a mesa e o pedido feito pelo cliente. O programa faz consultas a base de dados regularmente de forma a atualizar os pedidos a serem mostrados, quando um pedido é enviado ao cliente, no ecra o pedido aparece em verde, quando ainda não foi enviado aparece em vermelho como é possivel ver na imagem "imagem principal.png", também é possivel marcar o pedido como enviado, ou eliminar o pedido como é possivel ver na imagem "Detalhes pedido.png". O projeto foi feito em C#, e funciona com base de dados em Oracle, e Mysql, é possivel obter um exemplo da base de dados em Mysql na "Pasta -> Exemplo da BD em Mysql"
 
 ### Algumas funcionalidades a destacar
-Ficheiro-> ... <br/>
 
 ***Funções*** <br/> 
 
@@ -31,3 +30,12 @@ Ficheiro-> ... <br/>
 - status: É uma variavel da classe "MeusDados", e serve para guardar o estado do pedido, ou seja se ja foi enviado o pedido aparece em verde, se não foi enviado o pedido aparece em vermelho.
 - quantidade:É uma variavel da classe "MeusDados", e serve para guardar a quantidade de pedidos ou pratos pedidos pelo cliente.
 
+***Imagens*** <br/>
+
+***Página principal*** <br/>
+O print a baixo mostra a página principal do programa, nele é possivel ver os a representação dos pedidos, com o nome das salas, o numero da mesa, e o nome dos pratos, os pedidos em verde significam que ja foram enviados ao cliente, os que estão em vermelho mostram que ainda estão a ser feitos. É possivel ver também um botão que foi criado para atualizar caso por algum motivo a atualização automatica falhe, e tem também o botão de sair(fechar a aplicação).
+
+
+<p align="center">
+  <img src="Imagem principal.png" alt="OpenMontage" width="700">
+</p>
