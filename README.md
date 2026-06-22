@@ -20,4 +20,3 @@ Ficheiro-> ... <br/>
 - status: É uma variavel da classe "MeusDados", e serve para guardar o estado do pedido, ou seja se ja foi enviado o pedido aparece em verde, se não foi enviado o pedido aparece em vermelho.
 - quantidade:É uma variavel da classe "MeusDados", e serve para guardar a quantidade de pedidos ou pratos pedidos pelo cliente.
 
-***Links***
