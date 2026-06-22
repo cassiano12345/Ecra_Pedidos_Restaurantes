@@ -21,7 +21,7 @@ namespace Mesas_Pedidos
     class OracleChangeNotifier
     {
         //Oracle
-
+        
         
         private OracleConnection _connection;
         private string _connectionString;
@@ -190,8 +190,8 @@ namespace Mesas_Pedidos
 
 
         //Mysql
-
         /*
+        
         private MySqlConnection _connection;
         private string _connectionString;
 
