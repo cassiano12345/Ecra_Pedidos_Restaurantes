@@ -39,3 +39,9 @@ O print a baixo mostra a página principal do programa, nele é possivel ver os 
 <p align="center">
   <img src="Imagem principal.png" alt="OpenMontage" width="700">
 </p>
+
+***Janela de detalhes*** <br/>
+Ao clicar nos pedidos abre a janela a baixo onde é possivel ver os detalhes dos pedidos, bem como definir como executado(enviar ao cliente), e eliminar o pedido.
+<p align="center">
+  <img src="Detalhes pedido.png" alt="OpenMontage" width="700">
+</p>
