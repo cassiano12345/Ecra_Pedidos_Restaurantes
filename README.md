@@ -7,7 +7,7 @@ Ficheiro-> ... <br/>
 ***Funções***
 
 
-***Variáveis***
+***Variáveis*** <br/>
 Ficheiro->Ercã de pedidos restaurante c# ->Form1.cs
 - ConnectionString: É a variavel destinada a guardar os dados da conexão a base de dados.
 - _oracleChangeNotifier: É uma variavel que guarda uma instancia da classe "OracleChangeNotifier", com ela é possivel chamar metodos como: StartListening(), selecionar_sala(), Pedido_Executado(), Delete_Pedido(), StopListening().
